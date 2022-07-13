@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "approxfun", "cor", "dist")
+importFrom(TSP,"TSP")
+importFrom(PairViz,"order_tsp")
